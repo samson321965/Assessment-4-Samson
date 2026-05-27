@@ -1,0 +1,7 @@
+Two other solutions that could have been used:
+
+1. Cloning the repository:
+Instead of creating a new repo and copying files, I could clone the existing repository using git clone and work directly on it.
+
+2. Forking the repository:
+I could fork the existing repository on GitHub and then copy the content into my own version automatically.
